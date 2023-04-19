@@ -5,7 +5,7 @@ import D from "./components/D";
 
 function App() {
   return (
-    <div className="pb-96">
+    <div className="bg-red-100 min-h-screen flex flex-col gap-8 justify-center items-center">
       <A />
       <B />
       <C />
